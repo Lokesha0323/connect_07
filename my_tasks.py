@@ -1,4 +1,5 @@
 l=int(input)
 
 print(l)
-print("learning git")
+print("learning Git")
+print('--------')
